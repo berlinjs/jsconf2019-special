@@ -194,11 +194,6 @@ function footer () {
           We also have a Slack
         </a>
       </div>
-      <div class="fl-ns w-100 w-20-l pr3-m pr4-l underline">
-        <a href="http://groups.google.com/group/js-berlin" class="black link dim b">
-          And a mailing list
-        </a>
-      </div>
     </footer>
   `
 }

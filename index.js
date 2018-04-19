@@ -167,7 +167,7 @@ function sponsor () {
         <h2 class="f3 f1-ns lh-title fw9 mb3 mt0 pv3 bt bb bw2">
           Kindly sponsored by
           <a href="http://co-up.de/" class="black link underline">
-            co.up coworking
+            co.up community space
           </a>
         </h2>
       </div>

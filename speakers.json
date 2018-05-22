@@ -1,9 +1,9 @@
 [
   {
-    "name": "You?",
-    "uri": "https:\/\/twitter.com\/berlinjs",
-    "title": "Your talk title",
-    "description": "This is your spot to take! We want to hear your story. Get in touch with us and we're happy to host you!"
+    "name": "Ingvild Indrebø",
+    "uri": "https:\/\/twitter.com\/IngvildIndrebo",
+    "title": "Can you hear me now? Saying goodbye to clumsy video calls thanks to code.",
+    "description": "Almost every video call begins with the same clumsy questions. Can you hear me now? Did I just turn off my camera instead of my mic now? But what if we could take the awkward troubleshooting out of the conversation, and solve it with code instead?\n\nIn this talk, Ingvild Indrebø will give you a glimpse into aspects of WebRTC, WebAudio and Canvas, by showing you how she used these technologies to build a user-friendly and accessible tool to make sure you’re all set for your video call.\nOutline\nThe opening will be an introduction to the familiar situation of non-working video calls.\nThe talk itself will have three main parts, with a very brief intro to the tech we used, but focusing on how we used each technology in the final user flow, and what we learned on the way.\n\nThe first part is focused on WebRTC which is used to access video and audio from the user.\nThe second part is focused on WebAudio, and how we use that to make sure the user’s microphone is working.\nThe third is focused on Canvas, which we use to visualize audio input and output."
   },
   {
     "name": "You?",

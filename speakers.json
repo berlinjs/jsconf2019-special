@@ -6,10 +6,10 @@
     "description": "Almost every video call begins with the same clumsy questions. Can you hear me now? Did I just turn off my camera instead of my mic now? But what if we could take the awkward troubleshooting out of the conversation, and solve it with code instead?\n\nIn this talk, Ingvild Indrebø will give you a glimpse into aspects of WebRTC, WebAudio and Canvas, by showing you how she used these technologies to build a user-friendly and accessible tool to make sure you’re all set for your video call.\nOutline\nThe opening will be an introduction to the familiar situation of non-working video calls.\nThe talk itself will have three main parts, with a very brief intro to the tech we used, but focusing on how we used each technology in the final user flow, and what we learned on the way.\n\nThe first part is focused on WebRTC which is used to access video and audio from the user.\nThe second part is focused on WebAudio, and how we use that to make sure the user’s microphone is working.\nThe third is focused on Canvas, which we use to visualize audio input and output."
   },
   {
-    "name": "You?",
-    "uri": "https:\/\/twitter.com\/berlinjs",
-    "title": "Your talk title",
-    "description": "This is your spot to take! We want to hear your story. Get in touch with us and we're happy to host you!"
+    "name": "Ben Schwarz",
+    "uri": "https:\/\/twitter.com\/benschwarz",
+    "title": "The Critical Request: An investigation into what blocks render",
+    "description": "Serving a website seems pretty simple: send some HTML, the browser figures out what resources to load next. Then we wait patiently for the page to be ready.\n\nHowever, browsers are complex and without a firm grasp on how resources are prioritized, fetched and rendered we’re needlessly penalising our customers with serious performance repercussions. \n\nIn this talk we’ll study how browsers determine which requests should be made, in what order, and what prevents the browser from rendering content as quickly as about:blank."
   },
   {
     "name": "You?",

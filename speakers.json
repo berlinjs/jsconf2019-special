@@ -12,9 +12,9 @@
     "description": "Serving a website seems pretty simple: send some HTML, the browser figures out what resources to load next. Then we wait patiently for the page to be ready.\n\nHowever, browsers are complex and without a firm grasp on how resources are prioritized, fetched and rendered we’re needlessly penalising our customers with serious performance repercussions. \n\nIn this talk we’ll study how browsers determine which requests should be made, in what order, and what prevents the browser from rendering content as quickly as about:blank."
   },
   {
-    "name": "You?",
-    "uri": "https:\/\/twitter.com\/berlinjs",
-    "title": "Your talk title",
-    "description": "This is your spot to take! We want to hear your story. Get in touch with us and we're happy to host you!"
+    "name": "Eli Schütze Ramírez",
+    "uri": "https:\/\/twitter.com\/elibelly",
+    "title": "Internationalisation is a Piece of Cake",
+    "description": "While about 51% of the world’s websites are in English, only about 25% of web users are English speakers. With half of the world’s population online, internationalisation is as relevant as ever! Let’s explore how i18n gets made on the web and what we should keep in mind when making the web more accessible to the world."
   }
 ]

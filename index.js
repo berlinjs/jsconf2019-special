@@ -100,6 +100,9 @@ function speakers () {
         <h2 class="f4 f3-ns fw6 mb0">
           ${data.name}
         </h2>
+        <h3 class="f4 f3-ns fw6 mb0">
+          ${data.title}
+        </h3>
         <p class="f5 f4-ns measure lh-copy mt0">
           ${data.description}
         </p>

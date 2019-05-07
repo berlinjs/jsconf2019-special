@@ -6,7 +6,7 @@ var speakerData = require('./speakers.json')
 var date = {
   dayOfWeek: 'Thursday',
   time: '7pm',
-  date: 'May 31st'
+  date: 'May 30th'
 }
 
 css('tachyons')
@@ -49,6 +49,7 @@ function mainView () {
       ${nav()}
       <main class="ph4">
         ${intro()}
+        ${howToProposeATalk()}
         ${speakers()}
         ${codeOfConduct()}
         ${sponsor()}
@@ -66,7 +67,7 @@ function nav () {
           berlin.js
         </span>
       </h1>
-      <h2>JSConf EU 2018 special</h2>
+      <h2>JSConf EU 2019 special</h2>
       <h3 class="f2 f1-ns b ttu mt0 pt5">
         ${date.dayOfWeek} ${date.date}
         <br class="dn db-l"/>
@@ -121,11 +122,33 @@ function intro () {
           </h2>
         </section>
         <section class="lh-copy f5 f4-ns fl mt0-l measure">
-          Welcome to our <a href="http://2018.jsconf.eu">JSConf EU</a> special, a
+          Welcome to our <a href="http://2019.jsconf.eu">JSConf EU</a> special, a
           special occasion for the Berlin JavaScript community to mix and mingle
-          with people coming to JSConf EU 2018 from all over the world.
+          with people coming to JSConf EU 2019 from all over the world.
 
-          We will have talks and plenty of space to meet new people. See you there!
+          We will have talks and plenty of space to meet new people. See you there?
+        </section>
+      </div>
+    </section>
+  `
+}
+
+function howToProposeATalk () {
+  return html`
+    <section class="mt4 mt5-ns">
+      <div class="mw9 center cf">
+        <section class="fn fl-l w-100 w-40-l pr4-l">
+          <h2 class="f3 f1-ns lh-title fw9 mb3 mt0 pt3 bw2">
+            How to propose a talk?
+          </h2>
+        </section>
+        <section class="lh-copy f5 f4-ns fl mt0-l measure">
+          Glad that you're thinking about giving a talk. To propose a talk, please get in touch with us:
+          Open up an issue on <a href="https://github.com/berlinjs/jsconf2019-special" class="black link underline">
+          our repo</a>, send us <a href="mailto:submit@berlinjs.org" class="black link underline">an email</a>,
+          <a href="https://twitter.com/berlinjs" class="black link underline">tweet at us @berlinjs</a> or find us
+          <a href="https://berlinjs-slack.herokuapp.com/" class="black link underline">in our Slack</a>. Anything
+          works. We're happy to have you!
         </section>
       </div>
     </section>

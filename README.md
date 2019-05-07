@@ -1,18 +1,16 @@
-# jsconf2018-special
+# jsconf2019-special
 
 ![screenshot displaying the very yellow berlin.js website - because yellow is
 the color of javascript. Or something haha](./assets/screenshot.png)
 
-- Date: May 31st, 2018
-- Time: 7pm
+- Date: May 30, 2019
+- Time: 19:00 / 7 PM
 - Location: co.up, 3rd floor.
-- Meetup link: T.B.D.
-- After Meetup: T.B.D and to be coordinated with CSSConf.EU
+- Meetup link: TBD
+- After Meetup: TBD - We're coordinating with CSSConf EU!
 
 Rough idea: We want to have a meetup where we bring people together who are in
-town for JSConf.eu to mix and mingle with the BerlinJS community. Ideally we get
-some talks from speakers / rejected speakers from their pool. Think of it as a
-super mini, low-key Reject.JS
+town for JSConf EU to mix and mingle with the BerlinJS community. Ideally we get some talks from speakers / rejected speakers from their pool. Think of it as a super mini, low-key Reject.JS
 
 ## Contributing
 All speaker data is in `./speakers.json`. Time and date are at the top of

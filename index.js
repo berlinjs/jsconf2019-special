@@ -146,9 +146,8 @@ function howToProposeATalk () {
           Glad that you're thinking about giving a talk. To propose a talk, please get in touch with us:
           Open up an issue on <a href="https://github.com/berlinjs/jsconf2019-special" class="black link underline">
           our repo</a>, send us <a href="mailto:submit@berlinjs.org" class="black link underline">an email</a>,
-          <a href="https://twitter.com/berlinjs" class="black link underline">tweet at us @berlinjs</a> or find us
-          <a href="https://berlinjs-slack.herokuapp.com/" class="black link underline">in our Slack</a>. Anything
-          works. We're happy to have you!
+          <a href="https://twitter.com/berlinjs" class="black link underline">tweet at us @berlinjs</a> or find us <a href="https://berlinjs-slack.herokuapp.com/" class="black link underline">in our Slack</a>.
+          Anything works. We're happy to have you!
         </section>
       </div>
     </section>
@@ -176,10 +175,7 @@ function codeOfConduct () {
           </strong>
 
           For details on what kinds of behaviour are not tolerated and
-          consequences for violating these rules, we refer to the
-          <a href="http://rubyberlin.github.io/code-of-conduct" class="black link underline">
-            Berlin Code of Conduct.
-          </a>
+          consequences for violating these rules, we refer to the <a href="http://rubyberlin.github.io/code-of-conduct" class="black link underline">Berlin Code of Conduct.</a>
         </section>
       </div>
     </section>
@@ -191,10 +187,7 @@ function sponsor () {
     <section class="mt4 mt5-ns">
       <div class="mw9 center">
         <h2 class="f3 f1-ns lh-title fw9 mb3 mt0 pv3 bt bb bw2">
-          Kindly sponsored by
-          <a href="http://co-up.de/" class="black link underline">
-            co.up community space
-          </a>
+          Kindly sponsored by <a href="http://co-up.de/" class="black link underline"> co.up community space</a>
         </h2>
       </div>
     </section>

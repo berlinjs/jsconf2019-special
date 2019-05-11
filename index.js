@@ -5,7 +5,7 @@ var choo = require('choo')
 var speakerData = require('./speakers.json')
 var date = {
   dayOfWeek: 'Thursday',
-  time: '7pm',
+  time: '6pm',
   date: 'May 30th',
 }
 

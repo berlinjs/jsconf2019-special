@@ -71,10 +71,7 @@ function nav () {
       <h3 class="f2 f1-ns b ttu mt0 pt5">
         ${date.dayOfWeek} ${date.date}
         <br class="dn db-l"/>
-        ${date.time} at
-        <a href="https://goo.gl/maps/u6k4zWKcw5y" class="black link underline">
-          co.up
-        </a>
+        ${date.time} at <a href="https://goo.gl/maps/u6k4zWKcw5y" class="black link underline">co.up</a>
       </h3>
     </nav>
   `

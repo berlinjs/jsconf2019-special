@@ -9,8 +9,9 @@
     "start": "bankai start",
     "build": "bankai build && ./build.js",
     "publish": "npm run build && cp CNAME dist/CNAME && git add dist && git commit -m 'Publish website' && git subtree push --prefix dist origin gh-pages",
+    "prettier": "prettier --write '**/*.js'",
     "inspect": "bankai inspect",
-    "test": "standard && npm run deps"
+    "test": "npm run deps"
   },
   "dependencies": {
     "choo": "^6.13.3",
@@ -22,7 +23,7 @@
     "dependency-check": "^3.3.0",
     "hyperstream": "^1.2.2",
     "mkdirp": "^0.5.1",
-    "standard": "^12.0.1",
+    "prettier": "^1.17.0",
     "through2": "^3.0.1"
   }
 }

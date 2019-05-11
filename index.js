@@ -63,7 +63,7 @@ function nav() {
       <h3 class="f2 f1-ns b ttu mt0 pt5">
         ${date.dayOfWeek} ${date.date}
         <br class="dn db-l" />
-        ${date.time} at 
+        ${date.time} at
         <a href="https://goo.gl/maps/u6k4zWKcw5y" class="black link underline">co.up</a>
       </h3>
     </nav>
@@ -133,14 +133,14 @@ function howToProposeATalk() {
         </section>
         <section class="lh-copy f5 f4-ns fl mt0-l measure">
           Glad that you're thinking about giving a talk. To propose a talk, please get in touch with
-          us: Open up an issue on
+          us: Open up an issue on ${' '}
           <a href="https://github.com/berlinjs/jsconf2019-special" class="black link underline">
             our repo</a
-          >, send us <a href="mailto:submit@berlinjs.org" class="black link underline">an email</a>,
+          >, send us${' '}
+          <a href="mailto:submit@berlinjs.org" class="black link underline">an email</a>,${' '}
           <a href="https://twitter.com/berlinjs" class="black link underline"
             >tweet at us @berlinjs</a
-          >
-          or find us
+          >${' '} or find us${' '}
           <a href="https://berlinjs-slack.herokuapp.com/" class="black link underline"
             >in our Slack</a
           >. Anything works. We're happy to have you!
@@ -161,7 +161,7 @@ function codeOfConduct() {
         </section>
         <section class="lh-copy f5 f4-ns fl mt0-l measure">
           Our goal is to have an awesome, inclusive and safe community meetup where people meet,
-          hang out together, chat, listen to talks, exchange ideas and make new friends.
+          hang out together, chat, listen to talks, exchange ideas and make new friends.${' '}
 
           <strong>
             Any harmful or discriminating behaviour will not be tolerated and results in the
@@ -169,7 +169,7 @@ function codeOfConduct() {
           </strong>
 
           For details on what kinds of behaviour are not tolerated and consequences for violating
-          these rules, we refer to the
+          these rules, we refer to the${' '}
           <a href="http://rubyberlin.github.io/code-of-conduct" class="black link underline"
             >Berlin Code of Conduct.</a
           >

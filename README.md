@@ -4,9 +4,9 @@
 the color of javascript. Or something haha](./assets/screenshot.png)
 
 - Date: May 30, 2019
-- Time: 19:00 / 7 PM
+- Time: 18:00 / 6 PM
 - Location: co.up, 3rd floor.
-- Meetup link: TBD
+- Meetup link: https://www.meetup.com/Berlin-JS/events/261385945/
 - After Meetup: TBD - We're coordinating with CSSConf EU!
 
 Rough idea: We want to have a meetup where we bring people together who are in

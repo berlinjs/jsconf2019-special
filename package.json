@@ -1,29 +1,13 @@
 {
   "name": "berlinjs",
-  "description": "Berlinjs website",
-  "repository": "https://github.com/berlinjs/jsconf2018-special",
+  "description": "BerlinJS JSConf Special 2019 website",
+  "repository": "https://github.com/berlinjs/jsconf2019-special",
   "version": "1.0.0",
   "private": true,
   "scripts": {
-    "deps": "dependency-check . && dependency-check . --extra --no-dev",
-    "start": "bankai start",
-    "build": "bankai build && ./build.js",
-    "publish": "npm run build && cp CNAME dist/CNAME && git add dist && git commit -m 'Publish website' && git subtree push --prefix dist origin gh-pages",
-    "prettier": "prettier --write '**/*.js'",
-    "inspect": "bankai inspect",
-    "test": "npm run deps"
-  },
-  "dependencies": {
-    "choo": "^6.13.3",
-    "sheetify": "^7.3.3",
-    "tachyons": "^4.11.1"
+    "prettier": "prettier --write '**/*.js' '**/*.css' '**/*.html'"
   },
   "devDependencies": {
-    "bankai": "^9.15.0",
-    "dependency-check": "^3.3.0",
-    "hyperstream": "^1.2.2",
-    "mkdirp": "^0.5.1",
-    "prettier": "^1.17.0",
-    "through2": "^3.0.1"
+    "prettier": "^1.17.0"
   }
 }

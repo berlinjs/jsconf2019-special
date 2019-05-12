@@ -5,7 +5,7 @@
   "version": "1.0.0",
   "private": true,
   "scripts": {
-    "prettier": "prettier --write '**/*.js' '**/*.css' '**/*.html'"
+    "prettier": "prettier --write '**/*.{js,css,html}'"
   },
   "devDependencies": {
     "prettier": "^1.17.0"
